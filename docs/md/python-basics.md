@@ -32,15 +32,22 @@ Examples:
 
 Data Types - Class - classification of values 
 
-int  - integers, whole numbers, positive or negative
-Examples:  28196,  	-67,  	0
+-
+### Data Types
 
-float  - floating point
- numbers with a decimal point, positive or negative
-Examples: 	5.15296 , 	1.75
-Approximate: ~16 digits accuracy
+`int`  - integers, whole numbers, positive or negative
+
+Examples:  `28196`,  	`-67`,  	`0`
+
+-
+### Data Types
+
+`float`  - floating point
+ numbers with a decimal point, positive or negative  
+Examples: 	`5.15296` , 	`1.75`  
+Approximate: ~16 digits accuracy  
 Stored in binary representation -  some numbers  are approximate - some exact
-Try 1.1 – 1.09 in Python Shell
+Try `1.1 – 1.09` in Python Shell
 
 
 -
