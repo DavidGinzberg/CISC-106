@@ -4,3 +4,4 @@ channels:
 dependencies:
   - python
   - octave_kernel
+  - matplotlib
